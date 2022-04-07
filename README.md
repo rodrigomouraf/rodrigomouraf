@@ -1,4 +1,4 @@
-## Olá! Meu nome é Rodrigo Moura 🐱‍🐉 
+## Olá! Meu nome é Rodrigo Moura
 ## Atualmente eu sou Full Stack Developer, Seja Bem Vindoo!!! 👋
 
 <div align="center">
