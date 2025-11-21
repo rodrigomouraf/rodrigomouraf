@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Rodrigo Moura
-## Atualmente eu sou back end, Seja Bem Vindoo!!! 👋
+## Atualmente eu sou Techlead, Seja Bem Vindoo!!! 👋
 
 <div align="center">
   <a href="https://github.com/rodrigomouraf">
