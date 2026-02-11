@@ -1,5 +1,43 @@
-## Olá! Meu nome é Rodrigo Moura
-## Atualmente eu sou Techlead, Seja Bem Vindoo!!! 👋
+# 👋 Hey there! I'm Rodrigo Moura Ferreira
+
+🚀 **Tech Lead | Software Engineer | Full-Stack Developer**
+
+I’m a Software Engineer and Tech Lead passionate about building **scalable**, **clean**, and **data-driven applications**.  
+With strong experience in **.NET (C#)**, **Node.js**, **TypeScript**, and **React**, I focus on creating high-performance backend services and elegant frontend solutions.
+
+---
+
+### 🧠 What I Do
+- 🏗️ Design and develop **robust APIs** using .NET and Node.js  
+- ⚙️ Implement **cloud architectures** with **GCP / Firebase**  
+- 📊 Build **dashboards and data visualizations**  
+- 🧩 Integrate complex systems with clean, maintainable code  
+- 💬 Lead and mentor development teams toward technical excellence  
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** C#, TypeScript, JavaScript  
+**Backend:** .NET Core, Node.js, Express, Nest
+**Frontend:** React, Next.js  
+**Database:** SQL Server, PostgreSQL, Firestore  
+**DevOps:** Docker, CI/CD, GCP, Firebase  
+**Other:** Pub/Sub, BigQuery, Serilog, Zod  
+
+---
+
+### 🌍 About Me
+- 🇧🇷 From Brazil  
+- 💬 I’m currently improving my English and collaborating on international projects  
+- 🧭 I love solving complex problems through clean architecture and teamwork  
+- 🎯 Always learning, always shipping  
+
+---
+
+### 📫 Let's connect
+[LinkedIn](https://www.linkedin.com/in/rodrigomouraferreira)
+
+> “Code should not only work — it should make sense.”
 
 <div align="center">
   <a href="https://github.com/rodrigomouraf">
