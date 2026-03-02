@@ -37,7 +37,7 @@ With strong experience in **.NET (C#)**, **Node.js**, **TypeScript**, and **Reac
 ### 📫 Let's connect
 [LinkedIn](https://www.linkedin.com/in/rodrigomouraferreira)
 
-> “Code should not only work — it should make sense.”
+> “Code should not only work - it should make sense.”
 
 <div align="center">
   <a href="https://github.com/rodrigomouraf">
